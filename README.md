@@ -38,4 +38,4 @@ I'm a python developer who loves implement code based on real-time application, 
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Ashz05/Ashz05" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashz05&repo=Ashz05&title_color=84cc16&text_color=84cc16&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
