@@ -6,7 +6,6 @@ Artificial Intelligence and Machine learning developer
 
 I'm a python developer who loves implement code based on real-time application, also worked on projects with both front-end and back-end development.
 
-* 🖥️  See my portfolio at [Myportfolio](http://ashpf.my.canva.site/python-developer)
 * ✉️  You can contact me at [ashwinkp756@gmail.com](mailto:ashwinkp756@gmail.com)
 * 🧠  I'm learning data science, automation, building websites, games and app
 * 🤝  I'm open to collaborating on Artificial Intelligence and Machine Learning
