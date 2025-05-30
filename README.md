@@ -31,10 +31,8 @@ I'm a python developer who loves implement code based on real-time application, 
 
 
 
-<a href="http://www.github.com/Ashz05"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashz05&bg_color=000000&color=84cc16&line=22c55e&point=84cc16&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Ashz05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashz05&langs_count=10&title_color=84cc16&text_color=84cc16&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Ashz05/Ashz05" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashz05&repo=Ashz05&title_color=84cc16&text_color=84cc16&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Ashz05/Ashz05" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?
+                                                                                          username=Ashz05&repo=Ashz05&title_color=84cc16&text_color=84cc16&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+                                                                                          <a href="http://www.github.com/Ashz05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashz05&stroke=84cc16&background=000000&ring=84cc16&fire=84cc16&currStreakNum=84cc16&currStreakLabel=84cc16&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
