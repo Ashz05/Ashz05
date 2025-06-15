@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Big Data<br>🌱 I’m currently learning<br><br>
+🔭 I’m currently working on Big Data<br>🌱 I’m currently learning Data Science and AI and ML<br><br>
 
 
 ## 🌐 Socials:
@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ashz05&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ashz05&theme=neon&hide_border=false)<br/>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashz05/Ashz05/output/github-snake-dark.svg" />
