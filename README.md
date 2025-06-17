@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Big Data<br>🌱 I’m currently learning Data Science and AI and ML<br><br>
+🔭 I’m currently working on Big Data<br>🌱 I’m currently learning Data Science, AI and ML<br><br>
 
 
 ## 🌐 Socials:
