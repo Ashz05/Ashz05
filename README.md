@@ -32,7 +32,7 @@ Just a Coder who loves to Code
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ashz05&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-# ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <picture>
@@ -41,8 +41,8 @@ Just a Coder who loves to Code
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-# 💬 Let's Connect & Build Something Cool!
 
+ 💬 Let's Connect & Build Something Cool!
 *"The best way to predict the future is to create it."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00cfff,100:00ff88&height=120&section=footer" />
