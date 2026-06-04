@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-```python
+
 class Ashwin:
     name      = "Ashwin K"
     username  = "Ashz05"
@@ -34,9 +34,7 @@ class Ashwin:
 
 me = Ashwin()
 me.say_hi()
-` ` `
 
----
 
 ## 🛠️ Tech Stack
 
@@ -91,7 +89,7 @@ me.say_hi()
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -102,7 +100,6 @@ me.say_hi()
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashz05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
----
 
 ## 🏆 GitHub Trophies
 
@@ -112,7 +109,7 @@ me.say_hi()
 
 </div>
 
----
+
 
 ## 📈 Contribution Graph
 
@@ -132,11 +129,11 @@ me.say_hi()
 
 </div>
 
----
+
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00cfff,100:00ff88&height=120&section=footer" />
 
 </div>
-```
+
