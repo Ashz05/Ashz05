@@ -15,10 +15,6 @@
 
 </div>
 
----
-# 💫 About Me:
-Just a Coder who loves to Code
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashwin-k-35b14824b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinkp756@gmail.com) 
