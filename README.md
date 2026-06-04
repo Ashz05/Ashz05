@@ -1,3 +1,21 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:00cfff&height=200&section=header&text=Ashwin%20K&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Just%20a%20Coder%20Who%20Loves%20to%20Code&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Machine+Learning+Engineer+%F0%9F%A4%96;Game+Dev+Enthusiast+%F0%9F%8E%AE;Building+cool+things+one+commit+at+a+time;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-k-35b14824b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinkp756@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashz05)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ashz05&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)](https://github.com/Ashz05)
+
+</div>
+
+---
 # 💫 About Me:
 Just a Coder who loves to Code
 
@@ -11,6 +29,11 @@ Just a Coder who loves to Code
 ![](https://github-readme-stats.shion.dev/api?username=Ashz05&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Ashz05&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ashz05&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 📈 Contribution Graph
+[![Ashwin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashz05&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
